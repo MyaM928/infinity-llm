@@ -1,1 +1,3 @@
+OPENAI_API_KEY = "your-openai-api-key"
+SERPER_API_KEY = "your-serper-api-key"
 
