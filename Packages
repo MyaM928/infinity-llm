@@ -1,0 +1,1 @@
+pip install streamlit langchain openai requests python-docx python-pptx pandas openpyxl matplotlib seaborn xlsxwriter chromadb pyttsx3 SpeechRecognition pyaudio
